@@ -126,13 +126,7 @@ The application will be accessible at http://localhost:3000/.
 
 - Displays all transaction records.
 
-- Provides filtering options:
-
-This Week
-
-This Month
-
-Custom Date Range
+- Provides filtering options: This Week, This Month, Custom Date Range
 
 - Includes an Export to Excel feature to download transaction details.
 
