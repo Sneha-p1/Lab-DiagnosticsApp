@@ -71,8 +71,11 @@ cd backend
 npm install
 ```
 3. Setup MongoDB
+
 Make sure you have MongoDB installed and running.
-``` sudo systemctl start mongod
+
+``` 
+sudo systemctl start mongod
 ```
 
 
