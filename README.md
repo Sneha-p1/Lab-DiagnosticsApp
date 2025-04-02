@@ -53,7 +53,7 @@ It allows users to create transactions, filter transaction records, and download
 
 1. Clone the repository using :  
 ```  
-git clone https://github.com/Sneha-p1/SimplyFI-ReactNative.git
+git clone https://github.com/Sneha-p1/Lab-DiagnosticsApp.git
 cd Lab DiagnosticsApp
 cd LabApp
 ```  
